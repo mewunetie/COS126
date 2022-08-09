@@ -1,6 +1,6 @@
 /**
  * Description: This code allows a polygon's vertices to be scaled, translated,
- * copies, or rotated in different ways.
+ * copied, or rotated in different ways.
  */
 public class Transform2D {
     // Scales the polygon by the factor alpha.
